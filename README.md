@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Bharti</h1>
 <h3 align="center">Third Year Computer Science undergrad from Army Institute of Technology - Pune(2026), with deep interests in Data Structures and Algorithms.
 I have good Problem Solving Skills and love to code.</h3>
-
+ <img src="https://raw.githubusercontent.com/tanyarajhans/Actions/8c98d54e553ad39cc96a021fe1f07e5905b6a387/github-contribution-grid-snake.svg"</img> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-bharti-98a938252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-bharti-98a938252" height="30" width="40" /></a>
